@@ -1,2 +1,2 @@
-# CBITjava
+# cbit
 java
